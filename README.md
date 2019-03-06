@@ -1,2 +1,2 @@
-# N-bet-i-Eczane-Bot-PHP
-Nöbetçi Eczane Bot  PHP
+# Nobetci-Eczane-Bot- Java Android App
+Nöbetçi Eczane Bot  Java Android App
